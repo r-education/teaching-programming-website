@@ -15,5 +15,5 @@ if (Sys.getenv("id_rsa") != "") {
 
   get_stage("deploy") %>%
     add_code_step(blogdown::build_site()) %>%
-    add_step(step_push_deploy(path = "public", branch = "gh-pages"))
+    add_step(step_push_deploy())
 }
