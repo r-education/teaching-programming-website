@@ -1,0 +1,6 @@
+Package: reducationwebsite
+Type: Website
+Title: The Teaching Programming Website
+Version: 0.0.1
+Imports: blogdown
+Remotes: rstudio/blogdown
