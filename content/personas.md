@@ -11,7 +11,7 @@ project. By articulating their background, the problem they face, and how your
 project is going to help them, personas provide a way to determine the scope of
 your project, identify use cases, and essential features. The Carpentries use
 [this
-approach](https://carpentries.github.io/instructor-training/14-lesson-study/index.html#learner-profiles)
+approach](https://carpentries.github.io/instructor-training/15-lesson-study/index.html#learner-profiles)
 when designing new lessons.
 
 
