@@ -11,7 +11,7 @@ educational practices, enable collaborative development, make materials
 accessible to learners and teachers, and allow people developing curriculum and
 educational resources to focus on content rather than infrastructure.
 
-One of the first step of this project is to write an R package that relies on
+One of the first steps of this project is to write an R package that relies on
 existing tools (such as knitr and rmarkdown), to make it easier to compose,
 render, and deliver teaching materials. This package, tentatively named
 **lessondown**, will facilitate the development of consistent teaching resources. By providing the technical framework for developing
