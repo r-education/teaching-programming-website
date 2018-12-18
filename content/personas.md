@@ -75,6 +75,8 @@ Personas are imaginary users for a project. By articulating their background, th
   concepts. The glossary also helps him to understand the technical found in the
   lesson.
 
+
+<!---
 ## What are the personas telling us?
 
 - Background: \(R\)markdown, Git/GitHub
@@ -87,3 +89,8 @@ Personas are imaginary users for a project. By articulating their background, th
 - learner/teacher view for the lessons
 - glossary
 - easy to retrieve datasets used in the lesson
+- support for translations
+- accessible
+- limit cognitive load/user friendly by focusing on a single syntax (markdown
+  everywhere); users shouldn't have to edit YAML
+--->
