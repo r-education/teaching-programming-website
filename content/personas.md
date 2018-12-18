@@ -5,7 +5,14 @@ slug: personas
 
 ## What are personas?
 
-Personas are imaginary users for a project. By articulating their background, the problem they face, and how your project is going to help them, personas provide a way to determine the scope of your project, identify use cases, and essential features. The Carpentries use [this approach](https://carpentries.github.io/instructor-training/14-lesson-study/index.html#learner-profiles) when designing new lessons.
+To help us identify features needed by the tools and templates for teaching
+programming, we are developing personas. Personas are imaginary users for a
+project. By articulating their background, the problem they face, and how your
+project is going to help them, personas provide a way to determine the scope of
+your project, identify use cases, and essential features. The Carpentries use
+[this
+approach](https://carpentries.github.io/instructor-training/14-lesson-study/index.html#learner-profiles)
+when designing new lessons.
 
 
 ## The personas
@@ -76,21 +83,20 @@ Personas are imaginary users for a project. By articulating their background, th
   lesson.
 
 
-<!---
-## What are the personas telling us?
+<!-- ## What are the personas telling us? -->
 
-- Background: \(R\)markdown, Git/GitHub
-- language agnostic (R or Python)
-- solutions to exercises should be hidden
-- the packages and other system requirements needed to reproduce the code
-  included in the lessons (and the exercises) need to be made clear to the
-  learners
-- the organization of the files in the repository should be obvious
-- learner/teacher view for the lessons
-- glossary
-- easy to retrieve datasets used in the lesson
-- support for translations
-- accessible
-- limit cognitive load/user friendly by focusing on a single syntax (markdown
-  everywhere); users shouldn't have to edit YAML
---->
+<!-- - Background: \(R\)markdown, Git/GitHub -->
+<!-- - language agnostic (R or Python) -->
+<!-- - solutions to exercises should be hidden -->
+<!-- - the packages and other system requirements needed to reproduce the code -->
+<!--   included in the lessons (and the exercises) need to be made clear to the -->
+<!--   learners -->
+<!-- - the organization of the files in the repository should be obvious -->
+<!-- - learner/teacher view for the lessons -->
+<!-- - glossary -->
+<!-- - easy to retrieve datasets used in the lesson -->
+<!-- - support for translations -->
+<!-- - accessible -->
+<!-- - limit cognitive load/user friendly by focusing on a single syntax (markdown -->
+<!--   everywhere); users shouldn't have to edit YAML -->
+
