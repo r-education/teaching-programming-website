@@ -8,17 +8,21 @@ languageCode = "en-EN"
 metaDataFormat = "yaml"
 
 # Theme to use (located in /themes/THEMENAME/)
+theme = "hyde-y"
 title = "Tools and Resources for Teaching Programming"
 
 # Pagination
 paginate = 10
 paginatePath = "page"
 
+# Ignore files
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 # Enable Disqus integration
 #disqusShortname = "your_disqus_shortname"
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+    post = "/:year/:month/:slug/"
     code = "/:slug/"
 
 [taxonomies]
